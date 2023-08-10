@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="{{ asset('css/footer.css') }}">
     <link rel="stylesheet" href="{{ asset('css/navbar.css') }}">
     <link rel="stylesheet" href="{{ asset('css/carousel.css') }}">
-    <title>Document</title>
+    <title>PORTOFOLIO | @yield('page-title')</title>
 </head>
 <body>
 
